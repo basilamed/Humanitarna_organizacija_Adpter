@@ -1,0 +1,30 @@
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\AdapterDomaci2.csproj.AssemblyReference.cache
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\AdapterDomaci2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\AdapterDomaci2.AssemblyInfoInputs.cache
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\AdapterDomaci2.AssemblyInfo.cs
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\AdapterDomaci2.csproj.CoreCompileInputs.cache
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\AdapterDomaci2\AdapterDomaci2\bin\Debug\net6.0\AdapterDomaci2.exe
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\AdapterDomaci2\AdapterDomaci2\bin\Debug\net6.0\AdapterDomaci2.deps.json
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\AdapterDomaci2\AdapterDomaci2\bin\Debug\net6.0\AdapterDomaci2.runtimeconfig.json
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\AdapterDomaci2\AdapterDomaci2\bin\Debug\net6.0\AdapterDomaci2.dll
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\AdapterDomaci2\AdapterDomaci2\bin\Debug\net6.0\AdapterDomaci2.pdb
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\AdapterDomaci2.dll
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\refint\AdapterDomaci2.dll
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\AdapterDomaci2.pdb
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\AdapterDomaci2.genruntimeconfig.cache
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\ref\AdapterDomaci2.dll
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Adpter\AdapterDomaci2\AdapterDomaci2\bin\Debug\net6.0\AdapterDomaci2.exe
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Adpter\AdapterDomaci2\AdapterDomaci2\bin\Debug\net6.0\AdapterDomaci2.deps.json
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Adpter\AdapterDomaci2\AdapterDomaci2\bin\Debug\net6.0\AdapterDomaci2.runtimeconfig.json
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Adpter\AdapterDomaci2\AdapterDomaci2\bin\Debug\net6.0\AdapterDomaci2.dll
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Adpter\AdapterDomaci2\AdapterDomaci2\bin\Debug\net6.0\AdapterDomaci2.pdb
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Adpter\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\AdapterDomaci2.csproj.AssemblyReference.cache
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Adpter\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\AdapterDomaci2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Adpter\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\AdapterDomaci2.AssemblyInfoInputs.cache
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Adpter\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\AdapterDomaci2.AssemblyInfo.cs
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Adpter\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\AdapterDomaci2.csproj.CoreCompileInputs.cache
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Adpter\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\AdapterDomaci2.dll
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Adpter\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\refint\AdapterDomaci2.dll
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Adpter\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\AdapterDomaci2.pdb
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Adpter\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\AdapterDomaci2.genruntimeconfig.cache
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Adpter\AdapterDomaci2\AdapterDomaci2\obj\Debug\net6.0\ref\AdapterDomaci2.dll
